@@ -1,5 +1,8 @@
 # Abluka_BitirmeProjesi
 Erzurum Mobil Oyun Akademisi Bitirme Projesi
+Tanıtım Videosu için bağlantıya tıklamanız yeterlidir.
+
+https://www.youtube.com/watch?v=9LG_P0eU03s&t=156s
 
 ![Bitirme2](https://github.com/AhmetErbil2/Abluka_BitirmeProjesi/assets/140263489/5fcca662-615e-4437-8638-e226b8cd95b3)
 ![bitirme 1](https://github.com/AhmetErbil2/Abluka_BitirmeProjesi/assets/140263489/ef236ee7-45fd-44f3-9d54-2488990a04c2)
